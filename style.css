@@ -1,0 +1,21 @@
+body {
+    background-color:black;
+}
+
+p {
+    text-align:center;
+    color:white;
+}
+
+p.projectname {
+    font-size: 1.5em;
+}
+
+p.projectdescription {
+    font-size: 0.7em;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
