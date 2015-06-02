@@ -1,5 +1,14 @@
+a {
+    color:white;
+    text-decoration: none;
+}
+
 body {
     background-color:black;
+}
+
+img {
+    border-style: none;
 }
 
 p {
@@ -13,9 +22,4 @@ p.projectname {
 
 p.projectdescription {
     font-size: 0.7em;
-}
-
-a {
-    color:white;
-    text-decoration: none;
 }
